@@ -5,7 +5,7 @@ import styled from "styled-components"
 
 export const Navbar = () => {
     return (
-      <DIV id="navbar">
+      <DIV id="nav-menu">
         <div className="div1">me</div>
         <div className="div2">
         
