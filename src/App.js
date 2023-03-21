@@ -10,11 +10,11 @@ import { Projects } from './component/Projects';
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <Navbar/>
       <Home></Home>
       <About></About>
-      <Contact />
-      <Skill />
+      <Contact/>
+      <Skill/>
       <Projects/>
       
     </div>
