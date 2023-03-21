@@ -1,20 +1,14 @@
 import React from 'react'
-import { Link } from "react-router-dom"
+
 import styled from "styled-components"
-import { About } from './About';
-import { Home } from './Home';
+
 
 export const Navbar = () => {
     return (
-      <DIV id=".nav-link.home">
+      <DIV id="navbar">
         <div className="div1">me</div>
         <div className="div2">
-          <div id="#nav-menu">
-            <Home />
-          </div>
-          <div id="#nav-menu">
-            <About />
-          </div>
+        
           <div></div>
           <div></div>
           <div></div>
