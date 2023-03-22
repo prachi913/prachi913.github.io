@@ -13,20 +13,34 @@ export const Navbar = () => {
           <img src="" alt="k" />
         </div>
         <div className="div2">
-          <a href="">Home</a>
-          <a href="">About</a>
-          <a href="">Skills</a>
-          <a href="">Projects</a>
-          <a href="">Contact</a>
+          <a href="#home" id="nav-link home">
+            Home
+          </a>
+          <a href="#about" id="nav-link about">
+            About
+          </a>
+          <a href="#skills" id="nav-link skills">
+            Skills
+          </a>
+          <a href="#projects" id="nav-link projects">
+            Projects
+          </a>
+          <a href="#contact" id="nav-link contact">
+            Contact
+          </a>
         </div>
-      
+
         <label className="icon">
           <FontAwesomeIcon icon={faBars} className="kkk" />
-      
         </label>
-        <div className="div3">
-          <a class="resume" href="">
-            Resume
+        <div className="div3" id="nav-link resume">
+          <a
+            class="resume"
+            href="https://drive.google.com/file/d/1pzmJHhMOmiPx3V60t7tP19OjamtvLSWO/view?usp=sharing"
+            target="blank"
+            download="Prachi-Tiwari-Resume"
+          >
+            <button> Resume</button>
           </a>
         </div>
       </DIV>
