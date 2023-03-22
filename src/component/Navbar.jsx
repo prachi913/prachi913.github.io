@@ -13,19 +13,19 @@ export const Navbar = () => {
           <img src="" alt="k" />
         </div>
         <div className="div2">
-          <a href="#home" id="nav-link home">
+          <a href="#home" class="nav-link home">
             Home
           </a>
-          <a href="#about" id="nav-link about">
+          <a href="#about" class="nav-link about">
             About
           </a>
-          <a href="#skills" id="nav-link skills">
+          <a href="#skills" class="nav-link skills">
             Skills
           </a>
-          <a href="#projects" id="nav-link projects">
+          <a href="#projects" class="nav-link projects">
             Projects
           </a>
-          <a href="#contact" id="nav-link contact">
+          <a href="#contact" class="nav-link contact">
             Contact
           </a>
         </div>
@@ -33,7 +33,7 @@ export const Navbar = () => {
         <label className="icon">
           <FontAwesomeIcon icon={faBars} className="kkk" />
         </label>
-        <div className="div3" id="nav-link resume">
+        <div className="div3" class="nav-link resume">
           <a
             class="resume"
             href="https://drive.google.com/file/d/1pzmJHhMOmiPx3V60t7tP19OjamtvLSWO/view?usp=sharing"
