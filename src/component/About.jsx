@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../logo.jpeg"
+import pic from "../pic.jpg"
 
 export const About = () => {
   return (
@@ -12,7 +12,7 @@ export const About = () => {
         details. Aims to leverage knowledge and build world-class applications
         while facilitating organization in achieving functional goals.
       </h4>
-      <img src={ logo} alt="prachi" />
+      <img src={pic} alt="prachi"/>
     </div>
   );
 }
