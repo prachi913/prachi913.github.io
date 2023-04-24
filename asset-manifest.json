@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.64d4aa2d.css",
-    "main.js": "/static/js/main.e6c7080c.js",
+    "main.css": "/static/css/main.a923932e.css",
+    "main.js": "/static/js/main.acab769a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blueapron.jpg": "/static/media/blueapron.6d482646b2c4ce4946af.jpg",
+    "static/media/tata1mg.jpg": "/static/media/tata1mg.1427284f73bb0c5470b8.jpg",
+    "static/media/service.jpg": "/static/media/service.684c2c97869711c8f0e3.jpg",
     "static/media/prachi_resume.pdf": "/static/media/prachi_resume.9346f753662d6c8f9062.pdf",
     "static/media/logo.jpeg": "/static/media/logo.8b3969620d948a1edd13.jpeg",
     "index.html": "/index.html",
-    "main.64d4aa2d.css.map": "/static/css/main.64d4aa2d.css.map",
-    "main.e6c7080c.js.map": "/static/js/main.e6c7080c.js.map",
+    "main.a923932e.css.map": "/static/css/main.a923932e.css.map",
+    "main.acab769a.js.map": "/static/js/main.acab769a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64d4aa2d.css",
-    "static/js/main.e6c7080c.js"
+    "static/css/main.a923932e.css",
+    "static/js/main.acab769a.js"
   ]
 }
